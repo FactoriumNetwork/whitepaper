@@ -1,4 +1,4 @@
-# Factorium
+# Factorium Network
 
 A decentralized attestation marketplace where AI systems buy and sell verified data.
 
